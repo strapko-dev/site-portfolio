@@ -1,6 +1,11 @@
 @media screen and (max-width: 800px) {
-  .body {
-    overflow: auto;
+  .about__name .about__title_skills, .about__name .about__title {
+    font-size: 20px;
+    line-height: 36px;
+    color: #FFFFFF;
+  }
+
+  html, body {
     overflow-x: hidden;
   }
 
@@ -92,21 +97,23 @@
     opacity: 60%;
   }
 
+  .about {
+    background-color: #252525;
+    height: 650px;
+  }
+
+  .wrapper__about::before {
+    display: none;
+  }
+
   .about__name {
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
-    padding-top: 30px;
-    margin-bottom: 0;
-  }
-  .about__name .wrapper__about::before {
-    content: "";
-    position: absolute;
-    height: 500px;
+    height: 650px;
     width: 100%;
-    left: 0;
-    background-color: #252525;
-    z-index: -4;
+    flex-grow: 1;
+    padding-top: 50px;
+    margin-bottom: 0;
   }
   .about__name .about__img {
     position: relative;
@@ -132,11 +139,6 @@
     flex-direction: column;
     flex: 1;
   }
-  .about__name .about__title {
-    font-size: 20px;
-    line-height: 36px;
-    color: #FFFFFF;
-  }
   .about__name .about__subtitle {
     font-family: "Permanent Marker";
     font-style: normal;
@@ -149,9 +151,9 @@
   }
   .about__name .about__subtext {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #FFFFFF;
+    color: #fff;
     margin-bottom: 10px;
   }
   .about__name .about__subname {
