@@ -437,7 +437,7 @@ body {
 }
 
 .about__li {
-    background-image: url(/img/elipse.svg);
+    background-image: url(../img/elipse.svg);
     background-position: 0px 5px;
     background-size: 10px 10px;
     background-repeat: no-repeat;
@@ -490,7 +490,7 @@ body {
 }
 
 .work__pictures_img {
-    background-image: url(/img/rectangle.png);
+    background-image: url(../img/rectangle.png);
     background-position: 0 0;
     background-size: 200px 150px;
     background-repeat: no-repeat;
@@ -501,7 +501,7 @@ body {
 }
 
 .work__pictures_img-8 {
-    background-image: url(/img/rectangle-2.png);
+    background-image: url(../img/rectangle-2.png);
     background-position: 0 0;
     background-size: 200px 150px;
     background-repeat: no-repeat;
@@ -537,7 +537,7 @@ body {
 }
 
 .work__next {
-    background-image: url(/img/Next.svg);
+    background-image: url(../img/Next.svg);
     background-position: 0 0;
     background-size: 60px 10px;
     background-repeat: no-repeat;
@@ -1000,7 +1000,7 @@ body {
     }
     
     .work__pictures_img {
-        background-image: url(/img/rectangle.png);
+        background-image: url(../img/rectangle.png);
         background-position: 0 0;
         background-size: 200px 150px;
         background-repeat: no-repeat;
@@ -1011,7 +1011,7 @@ body {
     }
     
     .work__pictures_img-8 {
-        background-image: url(/img/rectangle-2.png);
+        background-image: url(../img/rectangle-2.png);
         background-position: 0 0;
         background-size: 200px 150px;
         background-repeat: no-repeat;
@@ -1047,7 +1047,7 @@ body {
     }
     
     .work__next {
-        background-image: url(/img/Next.svg);
+        background-image: url(../img/Next.svg);
         background-position: 0 0;
         background-size: 60px 10px;
         background-repeat: no-repeat;

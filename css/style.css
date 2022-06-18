@@ -161,7 +161,7 @@
     padding-right: 20px;
   }
   .about__name .about__li {
-    background-image: url(/img/elipse.svg);
+    background-image: url(../img/elipse.svg);
     background-position: 0px 5px;
     background-size: 10px 10px;
     background-repeat: no-repeat;
@@ -238,7 +238,7 @@
     margin-left: 0;
   }
   .work .work__pictures_img {
-    background-image: url(/img/rectangle.png);
+    background-image: url(../img/rectangle.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
