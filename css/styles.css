@@ -490,7 +490,7 @@ body {
 }
 
 .work__pictures_img {
-    background-image: url(img/rectangle.png);
+    background-image: url(../img/rectangle.png);
     background-position: 0 0;
     background-size: 200px 150px;
     background-repeat: no-repeat;
@@ -501,7 +501,7 @@ body {
 }
 
 .work__pictures_img-8 {
-    background-image: url(img/rectangle-2.png);
+    background-image: url(../img/rectangle-2.png);
     background-position: 0 0;
     background-size: 200px 150px;
     background-repeat: no-repeat;
