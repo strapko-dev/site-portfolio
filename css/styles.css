@@ -382,6 +382,11 @@ body {
     flex: 1;
 }
 
+.about__wrapper_title_1 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
 .about__wrapper_title {
     display: flex;
     margin-bottom: 10px;
